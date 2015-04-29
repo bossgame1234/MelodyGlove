@@ -1,0 +1,18 @@
+TITLE : MELODY GLOVE
+
+**Member**
+Pornpat  Tanjitanont 552115047 : Prepare devices and tools
+Pattadon Prapin      552115049 : Connect the circuit
+Sornkom  Yoohat	     552115068 : Implement the source code
+
+**Equipment**
+Arduino Uno x 1
+LDR x 5
+Resister 1 K x5
+Wire x 15 lines
+Glove x 1 
+Sticky tape x 1
+
+**Development tools**
+Proccessing 2.0
+Arduio 1.6.3
